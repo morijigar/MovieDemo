@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ApiFetch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="overview">Overview</string>
+
+    <string-array name="filter_array">
+        <item>Popular</item>
+        <item>Rating</item>
+        <item>Release Date</item>
+    </string-array>
+</resources>
